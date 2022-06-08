@@ -1,0 +1,5 @@
+ychannab@blr-mp37l Backup02 (main) $ git checkout bb01
+error: pathspec 'bb01' did not match any file(s) known to git
+ychannab@blr-mp37l Backup02 (main) $ git checkout feature/bb01
+Branch 'feature/bb01' set up to track remote branch 'feature/bb01' from 'origin'.
+
